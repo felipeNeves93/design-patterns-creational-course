@@ -9,4 +9,4 @@ Main Concepts
 - Concrete classes.
 
 Example in Java:
-- Caldendar
+- Calendar
